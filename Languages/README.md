@@ -1,0 +1,21 @@
+所有编程语言笔记
+
+已完成或大部分已完成：
+- [[C++]]
+- [[Python]]
+- [[SQL]]：Structured Query Language，结构化查询语言
+
+未完成
+- [[Cpp 控制语句]]：异常处理与异常类
+- [[Cpp 模板3]]：模板特化
+- [[Cpp 模板4]]：SFINAE
+- [[Python tkinter]]：布局
+
+待补充
+- [[Cpp 编译期3]]：编译期常见问题
+
+新建文件夹
+- [[PowerShell]]：Windows 下新终端脚本
+- [[Bash]]：Linux 下终端脚本
+- Java，Kotlin：仅记录专题，及各个版本的新特性
+- [[Class 字节码]]
